@@ -1,0 +1,5 @@
+while true do
+for _,v in pairs(game.Workspace.Instance.new("Part").Position = game.workspace
+Part.parent = game.Players.LocalPlayer.LeftLeg
+     end
+end
